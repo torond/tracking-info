@@ -29,24 +29,34 @@ Privater Raum mit Informationen, die für andere irrelevant aber dennoch persön
 Nur durch diese private Sphäre können wir zwei gegensätzliche menschliche Bedürfnisse stillen: Teil von einer sozialen Gruppe und gleichzeitig abseits dieser Gruppe zu sein.
 
 #### Wozu wird Tracking benutzt?
-irgendwie: wichtig zu wissen warum die daten gesammelt werden. Weil: Es gibt unterschiede zwischen hier und bspw. china & 
-
-
-Es ist hilfreich sich klar zu machen was mit den Daten passiert und wofür sie genutzt werden.
-Hier: Behavioral advertising & Auskunft (Schufa)
-Daher großes Interesse der Wirtschaft an persönlichen Daten.
-Anders ist es in China. Dort hat Staat Interesse daran um die Bürger über SCS zu erziehen.
+Um die Wichtigkeit einer intakten Privatsphäre zu verdeutlichen, ist es hilfreich die Gründe zu verstehen, wegen derer Daten gesammelt werden.
+Ein großer Aspekt kommt aus der Wirtschaft mit dem sog. Behavioral Advertising.
+Bei dieser Werbeform geht es darum personalisierte Nutzerprofile zu erstellen, so dass Nutzern effektivere Werbung gezeigt werden kann.
+Die Daten, welche dazu benötigt werden sind keine "besonderen" Daten, die man verstecken würde, sondern ganz alltägliche Daten.
+Dazu zählen unter anderem welchen Browser man benutzt, wie oft und wann man welche Seite ansieht, und sogar feine Details z.B. wie lange man mit der Maus über einem Bild eines Produkts wartet bis man darauf klickt.
+Solche zunächst belanglos wirkenden Informationen werden von Unternehmen wie Amazon und Google auf ihren Websites gesammelt und zu massiven Nutzerprofilen aggregiert.
+Dadurch können diese Unternehmen ihre eigenen Websites bis ins kleinste Detail optimieren.
+Zusätzlich verkauft z.B. Google Werbeplätze an andere Unternehmen und kann mit der Masse an Nutzerprofilen dafür sorgen, dass die Werbung Nutzern gezeigt wird, welche wahrscheinlich darauf klicken.
+Ist man sich dessen nicht bewusst geht man vielleicht sogar davon aus, dass alle Leute die selbe Werbung sehen und lässt das in seine Kaufentscheidungen einfließen.  
+Persönliche Daten werden auch zur Einschätzung von Kredit- und Vertrauenswürdigkeit genutzt.
+Nimmt man einen Kredit auf oder möchte man eine Wohnung mieten, so hat die verkaufende Seite ein legitimes Interesse daran zu wissen ob der Kunde zahlungsfähig ist.
+In Deutschland ist die größte Firma in diesem Bereich, eine sog. Wirtschaftsauskunftei, die SCHUFA.
+Sie sammelt Daten über aufgenommene Kredite, Rückzahlungsverhalten, Onlinekaufverhalten und mehr.
+Daraus berechnet sie mit proprietären statistischen Methoden die Wahrscheinlichkeit, ob ein Kunde zahlt.
+Das ist praktisch und sinnvoll für Banken, Vermieter und Verkäufer.
+Wenn man als Kunde jedoch einen schlechten SCHUFA-Score hat und durch dessen geheim gehaltene Berechnung nicht weiß wie man ihn effektiv verbessern kann, so kann dies zu Benachteiligungen führen.
+Ein Schutz vor dieser Art von Datensammlung ist schwieriger als der Schutz online.   
+-> Noch ein zwei Sätze zu China eventuell (Anders ist es in China. Dort hat Staat Interesse daran um die Bürger über SCS zu erziehen.)
 
 
 ### Weiterführende Links
-[Link zu Vortragsfolien](https://docs.google.com/presentation/d/1xQjetL0wlfX8nB_Xtyn0zT5Ylv_OmDFtHNt0KudGCxs/edit?usp=sharing) (Da sind die Quellen drin)  
-#### Initiativen
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
+[Link zu Vortragsfolien](https://docs.google.com/presentation/d/1xQjetL0wlfX8nB_Xtyn0zT5Ylv_OmDFtHNt0KudGCxs/edit?usp=sharing) (Inklusive ausführlicher Quellenangaben)  
+#### Datenschutzinitiativen
+[AlgorithmWatch](https://algorithmwatch.org/de/)  
+[DataSkop Datenspendeplattform](https://algorithmwatch.org/de/dataskop/)  
+[Big Brother Awards](http://www.bigbrotherawards.org/)  
+[Reclaim Your Face](https://reclaimyourface.eu/)  
+[OpenSCHUFA](https://openschufa.de/)  
 #### Im Vortrag hervorgehobene Quellen  
 [David Anderson Q.C. - A Question of Trust: Report of the Investigatory Powers Review ](https://www.gov.uk/government/publications/a-question-of-trust-report-of-the-investigatory-powers-review)  
 [China’s Social Credit System in 2021: From fragmentation towards integration](https://merics.org/en/report/chinas-social-credit-system-2021-fragmentation-towards-integration)  
@@ -59,32 +69,33 @@ Anders ist es in China. Dort hat Staat Interesse daran um die Bürger über SCS 
 ---
 
 ### Diskussion
-Was wurde diskutiert?
-Was sind die Ergebnisse?
-1
-auf Fahrrad Straftat begehen!
-nicht jeder hat Fahrrad
-gesundheitliche Beeinträchtigungen (Opa vs. Kind, Rollstuhlfahrer)
-Unfallrisiko
-Änderung: Jährlich oder monatlich
-Pro: Motiviert -> Gut für andere Aspekte, Belohnung, keine Minus (?)
-Con: Gefahr für Bevölkerung, Nachweis schwierig, Fälschung möglich
-2
-permanente Angst vor Spitzeln (siehe DDR)
-höherer verwaltungstechnischer Aufwand
-Verbesserung durch positive Propaganda
-Gibt es schon
-Con: Moralisch (?), anonym, eigentlich keine Belohnung nötig weil es den Normen entspricht
--> zu wenig Pluspunkte
-3
-Nachweis (?)
-Fehler beheben (?)
-Unterschiedliche Arten von Vandalismus
-Pro: Geht alle was an und schadet alle
--> zu wenig Minuspunkte
-4
-humanitäre Leistung
-100 Pkt. zu viel
+Was wurde diskutiert?  
+Was sind die Ergebnisse?  
+#### Frage 1
+auf Fahrrad Straftat begehen!  
+nicht jeder hat Fahrrad  
+gesundheitliche Beeinträchtigungen (Opa vs. Kind, Rollstuhlfahrer)  
+Unfallrisiko  
+Änderung: Jährlich oder monatlich  
+Pro: Motiviert -> Gut für andere Aspekte, Belohnung, keine Minus (?)  
+Con: Gefahr für Bevölkerung, Nachweis schwierig, Fälschung möglich  
+#### Frage 2
+permanente Angst vor Spitzeln (siehe DDR)  
+höherer verwaltungstechnischer Aufwand  
+Verbesserung durch positive Propaganda  
+Gibt es schon  
+Con: Moralisch (?), anonym, eigentlich keine Belohnung nötig weil es den Normen entspricht  
+-> zu wenig Pluspunkte  
+#### Frage 3
+Nachweis (?)  
+Fehler beheben (?)  
+Unterschiedliche Arten von Vandalismus  
+Pro: Geht alle was an und schadet alle  
+-> zu wenig Minuspunkte  
+#### Frage 4
+humanitäre Leistung  
+100 Pkt. zu viel  
 
--> Schwierig / unmöglich Verhältnismäßigkeit zwischen Punkten für Regeln zu erstellen
--> Welche Regeln werden mit aufgenommen? Wer entscheidet das?
+#### Gesamt
+-> Schwierig / unmöglich Verhältnismäßigkeit zwischen Punkten für Regeln zu erstellen  
+-> Welche Regeln werden mit aufgenommen? Wer entscheidet das?  
