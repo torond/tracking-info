@@ -46,7 +46,21 @@ Daraus berechnet sie mit proprietären statistischen Methoden die Wahrscheinlich
 Das ist praktisch und sinnvoll für Banken, Vermieter und Verkäufer.
 Wenn man als Kunde jedoch einen schlechten SCHUFA-Score hat und durch dessen geheim gehaltene Berechnung nicht weiß wie man ihn effektiv verbessern kann, so kann dies zu Benachteiligungen führen.
 Ein Schutz vor dieser Art von Datensammlung ist schwieriger als der Schutz online.   
--> Noch ein zwei Sätze zu China eventuell (Anders ist es in China. Dort hat Staat Interesse daran um die Bürger über SCS zu erziehen.)
+Ein Extrembeispiel von Datensammlung lässt sich in China beobachten.
+Dort werden personenbezogene Daten innerhalb des sog. Social Credit Systems genutzt um die Vertrauenswürdigkeit der Bürger von staatlicher Seite einzuschätzen.
+Da das Social Credit System nicht von einem Privatunternehmen sondern von der Regierung ausgeht, ist die Motivation ist die Motivation hinter der Datenerhebung eine andere.
+Ein großer Aspekt ist die Erziehung der Bürger nach von der Regierung bestimmten moralischen Grundsätzen.
+Verhält man sich entsprechend gut, bekommt man Pluspunkte auf sein Punktekonto.
+Dies geschieht zum Beispiel wenn das eigene Kind in die Armee eintritt.
+Verhält man sich schlecht, indem man beispielsweise eigenen Eltern nicht oft genug besucht oder die Regierung kritisiert, erhält man Minuspunkte.
+Der Punktestand entscheidet dann mit über die Möglichkeit Kredite aufnehmen zu können oder Plätze an begehrten Universitäten zu bekommen.
+Noch ist das Social Credit System in China nicht vollständig ausgebaut.
+Zudem ist es weit komplexer und fragmentierter als es nach außen hin den Anschein macht.
+Wer sich weiter interessiert kann unten unter dem ersten Link in der Kategorie China eine sehr umfassende Analyse zur aktuellen Lage des Social Credit Systems in China lesen.  
+
+
+Schutz vor Tracking ist wichtig und wird es auch in der Zukunft bleiben.
+Mit den Informationen in unserem Guide kann jeder jetzt einen Schritt in die richtige Richtung tun und die eigene Privatsphäre schützen.
 
 
 ### Weiterführende Links
@@ -59,40 +73,89 @@ Ein Schutz vor dieser Art von Datensammlung ist schwieriger als der Schutz onlin
 [OpenSCHUFA](https://openschufa.de/)  
 #### Im Vortrag hervorgehobene Quellen  
 [David Anderson Q.C. - A Question of Trust: Report of the Investigatory Powers Review ](https://www.gov.uk/government/publications/a-question-of-trust-report-of-the-investigatory-powers-review)  
+#### China
 [China’s Social Credit System in 2021: From fragmentation towards integration](https://merics.org/en/report/chinas-social-credit-system-2021-fragmentation-towards-integration)  
 [Vom ‚Vorreiter‘ lernen? Eine multidisziplinäre Analyse des chinesischen Sozialkreditsystems und seiner Auswirkungen auf Deutschland](https://www.bidt.digital/forschungsprojekt-sozialkreditsystem)  
-#### China
 [Wikipedia - Face (sociological concept)](https://en.wikipedia.org/wiki/Face_(sociological_concept)#Chinese)  
 [The Cult of “Face” in China | 面子](https://www.china-mike.com/chinese-culture/cult-of-face/)  
-[Wikipedia - Public records in China (Dang'an)](https://en.wikipedia.org/wiki/Public_records_in_China) 
+[Wikipedia - Public records in China (Dang'an)](https://en.wikipedia.org/wiki/Public_records_in_China)  
 
 ---
 
 ### Diskussion
-Was wurde diskutiert?  
-Was sind die Ergebnisse?  
-#### Frage 1
-auf Fahrrad Straftat begehen!  
-nicht jeder hat Fahrrad  
-gesundheitliche Beeinträchtigungen (Opa vs. Kind, Rollstuhlfahrer)  
-Unfallrisiko  
-Änderung: Jährlich oder monatlich  
-Pro: Motiviert -> Gut für andere Aspekte, Belohnung, keine Minus (?)  
-Con: Gefahr für Bevölkerung, Nachweis schwierig, Fälschung möglich  
-#### Frage 2
+In einer fiktionalen Zukunft im Jahr 2098 ist die Einführung eines Sozialkredits geplant.
+Den Seminarteilnehmern wurden vier geplante Punkteregeln vorgelegt.
+Jede Regel enthält zusätzlich die veranschlagten Plus- oder Minuspunkte.
+In zwei Partnerdiskussionsrunden wurden die Regeln nach Pro- und Contrapunkten und sinnvollen Änderungen untersucht.
+Anschließend wurde die zweite Regel in einer Gruppendiskussion genauer beleuchtet.
+Die editierten Ergebnisse der Diskussion sind unten dargestellt.  
+
+#### Regel 1: Wöchentlich 20 km mit dem Fahrrad fahren -> +1 Punkt
+Pro:
+- Motivierende Regel
+- Gut für andere Aspekte des Lebens
+- Positive Reinforcement  
+Con:
+- Verstärkte Unfallgefahr durch erhöhten Anreiz
+- Nachweis ist schwierig
+- Fälschungen sind einfach möglich
+- Nicht jeder hat Fahrrad
+- Unfair durch gesundheitliche Beeinträchtigungen (Opa vs. Kind, Rollstuhlfahrer) 
+Änderungen: 
+- Jährliche oder monatliche Punktevergabe  
+Weitere Gedanken:  
+- Was passiert wenn man auf dem Fahrrad eine Straftat begeht?
+#### Regel 2: Beweise von Straftaten einreichen -> +10 Punkte
+Pro:
+
+Con:
+
+Änderungen:
+
+Weitere Gedanken:
+
 permanente Angst vor Spitzeln (siehe DDR)  
 höherer verwaltungstechnischer Aufwand  
 Verbesserung durch positive Propaganda  
 Gibt es schon  
 Con: Moralisch (?), anonym, eigentlich keine Belohnung nötig weil es den Normen entspricht  
 -> zu wenig Pluspunkte  
-#### Frage 3
+
+Kein Bock auf Stasi  
+Misstrauenskultur statt Vertrauenskultur  
+Gibt es schon: 60 EUR für Strassenbahn-Hinweise  
+Ist der Denunziant Anonym? -> Wer führt die Kontrollen durch? Bürger gegen Bürger hetzen?
+Man braucht es eigentlich nicht, weil es Normen in der Gesellschaft gibt
+Trade-off: Wir führen sowieso Regeln ein… wenn es wirklich eine Straftat ist, dann hilft es schon (Mord) vs Mülltonne ist fehlplatziert  
+Die Liste der Straftaten spielt eine Rolle: Es ist relevant WELCHE Straftaten und Ordnungswidrigkeiten auf der Liste stehen  
+Man bräuchte einen negativ Score für Falschanzeigen  
+Überfüllung von Gefängnissen, Behörden müssen die Regeln auch durchsetzen  
+Behörden müssten heutzutage schon die Regeln besser durchsetzen  
+Wer bekommt denn die Punkte, wenn es mehrmals angezeigt wird  
+
+#### Regel 3: Vandalismus an öffentlichen Einrichtung -> -20 Punkte
+Pro:
+
+Con:
+
+Änderungen:
+
+Weitere Gedanken:
+
 Nachweis (?)  
 Fehler beheben (?)  
 Unterschiedliche Arten von Vandalismus  
 Pro: Geht alle was an und schadet alle  
 -> zu wenig Minuspunkte  
-#### Frage 4
+#### Regel 4: Beihilfe zur illegalen Einreise -> -100 Punkte
+Pro:
+
+Con:
+
+Änderungen:
+
+Weitere Gedanken:
+
 humanitäre Leistung  
 100 Pkt. zu viel  
 
