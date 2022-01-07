@@ -1,9 +1,10 @@
 ## Tracking und das Sammeln von personenbezogenen Daten
 David Reinartz, Felix Förtsch  
-Stand: 04.01.2022  
+Stand: 07.01.2022  
 Ausarbeitung zum gleichnamigem Vortrag im Modul Gesellschaftliche Strukturen im Digitalen Wandel
 
-### Guide (Video von Felix)
+### Praktischer Guide
+(Video von Felix)
 
 ### Hintergrund
 #### Wieso Privatsphäre? Ich hab doch nichts zu verbergen!
@@ -39,7 +40,7 @@ Dadurch können diese Unternehmen ihre eigenen Websites bis ins kleinste Detail 
 Zusätzlich verkauft z.B. Google Werbeplätze an andere Unternehmen und kann mit der Masse an Nutzerprofilen dafür sorgen, dass die Werbung Nutzern gezeigt wird, welche wahrscheinlich darauf klicken.
 Ist man sich dessen nicht bewusst geht man vielleicht sogar davon aus, dass alle Leute die selbe Werbung sehen und lässt das in seine Kaufentscheidungen einfließen.  
 Persönliche Daten werden auch zur Einschätzung von Kredit- und Vertrauenswürdigkeit genutzt.
-Nimmt man einen Kredit auf oder möchte man eine Wohnung mieten, so hat die verkaufende Seite ein legitimes Interesse daran zu wissen ob der Kunde zahlungsfähig ist.
+Nimmt man einen Kredit auf oder möchte man eine Wohnung mieten, so hat die Anbieterseite ein legitimes Interesse daran zu wissen ob der Kunde zahlungsfähig ist.
 In Deutschland ist die größte Firma in diesem Bereich, eine sog. Wirtschaftsauskunftei, die SCHUFA.
 Sie sammelt Daten über aufgenommene Kredite, Rückzahlungsverhalten, Onlinekaufverhalten und mehr.
 Daraus berechnet sie mit proprietären statistischen Methoden die Wahrscheinlichkeit, ob ein Kunde zahlt.
@@ -48,11 +49,11 @@ Wenn man als Kunde jedoch einen schlechten SCHUFA-Score hat und durch dessen geh
 Ein Schutz vor dieser Art von Datensammlung ist schwieriger als der Schutz online.   
 Ein Extrembeispiel von Datensammlung lässt sich in China beobachten.
 Dort werden personenbezogene Daten innerhalb des sog. Social Credit Systems genutzt um die Vertrauenswürdigkeit der Bürger von staatlicher Seite einzuschätzen.
-Da das Social Credit System nicht von einem Privatunternehmen sondern von der Regierung ausgeht, ist die Motivation ist die Motivation hinter der Datenerhebung eine andere.
+Da das Social Credit System nicht von einem Privatunternehmen sondern von der Regierung ausgeht, ist die Motivation hinter der Datenerhebung eine andere.
 Ein großer Aspekt ist die Erziehung der Bürger nach von der Regierung bestimmten moralischen Grundsätzen.
 Verhält man sich entsprechend gut, bekommt man Pluspunkte auf sein Punktekonto.
 Dies geschieht zum Beispiel wenn das eigene Kind in die Armee eintritt.
-Verhält man sich schlecht, indem man beispielsweise eigenen Eltern nicht oft genug besucht oder die Regierung kritisiert, erhält man Minuspunkte.
+Verhält man sich schlecht, indem man beispielsweise die eigenen Eltern nicht oft genug besucht oder die Regierung kritisiert, erhält man Minuspunkte.
 Der Punktestand entscheidet dann mit über die Möglichkeit Kredite aufnehmen zu können oder Plätze an begehrten Universitäten zu bekommen.
 Noch ist das Social Credit System in China nicht vollständig ausgebaut.
 Zudem ist es weit komplexer und fragmentierter als es nach außen hin den Anschein macht.
@@ -83,82 +84,79 @@ Mit den Informationen in unserem Guide kann jeder jetzt einen Schritt in die ric
 ---
 
 ### Diskussion
-In einer fiktionalen Zukunft im Jahr 2098 ist die Einführung eines Sozialkredits geplant.
+In einer fiktionalen Zukunft im Jahr 2098 kurz vor dem Zusammenschluss der europäischen Länder in der Zentralverwaltungszone "Neuropa" ist die Einführung eines Sozialkredits geplant.
 Den Seminarteilnehmern wurden vier geplante Punkteregeln vorgelegt.
-Jede Regel enthält zusätzlich die veranschlagten Plus- oder Minuspunkte.
-In zwei Partnerdiskussionsrunden wurden die Regeln nach Pro- und Contrapunkten und sinnvollen Änderungen untersucht.
-Anschließend wurde die zweite Regel in einer Gruppendiskussion genauer beleuchtet.
+Jede Regel enthält die Tat und die veranschlagten Plus- oder Minuspunkte.
+In zwei Partnerdiskussionsrunden wurden die Regeln nach Pro- und Contrapunkten sowie nach sinnvollen Änderungen untersucht.
+Anschließend wurde nach einer meinungsbildenden Abstimmung die zweite Regel in einer Gruppendiskussion genauer beleuchtet.
 Die editierten Ergebnisse der Diskussion sind unten dargestellt.  
 
 #### Regel 1: Wöchentlich 20 km mit dem Fahrrad fahren -> +1 Punkt
-Pro:
-- Motivierende Regel
-- Gut für andere Aspekte des Lebens
-- Positive Reinforcement  
-Con:
-- Verstärkte Unfallgefahr durch erhöhten Anreiz
-- Nachweis ist schwierig
-- Fälschungen sind einfach möglich
-- Nicht jeder hat Fahrrad
-- Unfair durch gesundheitliche Beeinträchtigungen (Opa vs. Kind, Rollstuhlfahrer) 
-Änderungen: 
-- Jährliche oder monatliche Punktevergabe  
-Weitere Gedanken:  
-- Was passiert wenn man auf dem Fahrrad eine Straftat begeht?
+- Pro:
+  - Motivierende Regel
+  - Gut für andere Aspekte des Lebens
+  - Positive Reinforcement  
+- Con:
+  - Verstärkte Unfallgefahr durch erhöhten Anreiz
+  - Nachweis ist schwierig
+  - Fälschungen sind einfach möglich
+  - Nicht jeder hat Fahrrad
+  - Unfair durch gesundheitliche Beeinträchtigungen (Opa vs. Kind, Rollstuhlfahrer) 
+- Änderungen: 
+  - Jährliche oder monatliche Punktevergabe  
+- Weitere Gedanken:  
+  - Was passiert wenn man auf dem Fahrrad eine Straftat begeht?
+
 #### Regel 2: Beweise von Straftaten einreichen -> +10 Punkte
-Pro:
-
-Con:
-
-Änderungen:
-
-Weitere Gedanken:
-
-permanente Angst vor Spitzeln (siehe DDR)  
-höherer verwaltungstechnischer Aufwand  
-Verbesserung durch positive Propaganda  
-Gibt es schon  
-Con: Moralisch (?), anonym, eigentlich keine Belohnung nötig weil es den Normen entspricht  
--> zu wenig Pluspunkte  
-
-Kein Bock auf Stasi  
-Misstrauenskultur statt Vertrauenskultur  
-Gibt es schon: 60 EUR für Strassenbahn-Hinweise  
-Ist der Denunziant Anonym? -> Wer führt die Kontrollen durch? Bürger gegen Bürger hetzen?
-Man braucht es eigentlich nicht, weil es Normen in der Gesellschaft gibt
-Trade-off: Wir führen sowieso Regeln ein… wenn es wirklich eine Straftat ist, dann hilft es schon (Mord) vs Mülltonne ist fehlplatziert  
-Die Liste der Straftaten spielt eine Rolle: Es ist relevant WELCHE Straftaten und Ordnungswidrigkeiten auf der Liste stehen  
-Man bräuchte einen negativ Score für Falschanzeigen  
-Überfüllung von Gefängnissen, Behörden müssen die Regeln auch durchsetzen  
-Behörden müssten heutzutage schon die Regeln besser durchsetzen  
-Wer bekommt denn die Punkte, wenn es mehrmals angezeigt wird  
+- Pro:
+  - Trade-off: Wir führen (im Szenario) sowieso Regeln ein… Wenn es wirklich eine Straftat ist, dann hilft es. 
+- Con:
+  - Erzeugt permanente Angst vor Spitzeln (siehe DDR)  
+  - Erzeugt hohen verwaltungstechnischen Aufwand 
+  - Moralisch fragwürdig
+  - Erzeugt Misstrauenskultur statt Vertrauenskultur 
+  - Möglicherweise überfüllte Gefängnisse  
+- Änderungen:
+  - Mehr Pluspunkte
+  - Zusätzliche Regel: Minuspunkte bei Unterbreitung von gefälschten Beweisen 
+- Weitere Gedanken:
+  - Gibt es schon: 60 EUR für Strassenbahn-Hinweise
+  - Eigentlich sollte keine Belohnung nötig sein weil es den bestehenden Normen entspricht
+  - Ist der Denunziant anonym?
+  - Wer führt die Kontrollen durch? Werden so Bürger gegen Bürger gehetzt?
+  - Die Liste der Straftaten spielt eine Rolle: Es ist relevant WELCHE Straftaten und Ordnungswidrigkeiten auf der Liste stehen  
+  - Wie soll bei einer derartig groben Regel die Verhältnismäßigkeit gewahrt werden? Beweise für Verletzungsdelikte sind wichtiger als jene für harmlose Ordnungswidrichkeiten.
+  - Wer bekommt die Pluspunkte, wenn eine Straftat mehrmals angezeigt wird?  
 
 #### Regel 3: Vandalismus an öffentlichen Einrichtung -> -20 Punkte
-Pro:
+- Pro:
+  - Vandalismus geht alle was an und schadet allen
+- Änderungen:
+  - Mehr Minuspunkte
+- Weitere Gedanken:
+  - Es gibt unterschiedliche Arten von Vandalismus
 
-Con:
-
-Änderungen:
-
-Weitere Gedanken:
-
-Nachweis (?)  
-Fehler beheben (?)  
-Unterschiedliche Arten von Vandalismus  
-Pro: Geht alle was an und schadet alle  
--> zu wenig Minuspunkte  
 #### Regel 4: Beihilfe zur illegalen Einreise -> -100 Punkte
-Pro:
+- Änderungen:
+  - Weniger Minuspunkte
 
-Con:
-
-Änderungen:
-
-Weitere Gedanken:
-
-humanitäre Leistung  
-100 Pkt. zu viel  
-
-#### Gesamt
--> Schwierig / unmöglich Verhältnismäßigkeit zwischen Punkten für Regeln zu erstellen  
--> Welche Regeln werden mit aufgenommen? Wer entscheidet das?  
+#### Auswertung
+Die Diskussion hat auf einige Schwachstellen eines möglichen Sozialkreditsystems hingewiesen.  
+Zunächst besteht die Frage welche Regeln aufgenommen werden und wer darüber entscheidet.
+Die in vielen Ländern bestehenden Gesetzeskataloge sind durch unzählige Mitwirkende über Jahrhunderte gewachsen und spiegeln so im Idealfall die mittlere Moral der gesamten Bevölkerung wieder.
+Im Zukunftsszenario werden die Regeln von einer zentralen "neuropäischen" Partei vorgegeben.
+Eine derartige, radikale Zentralisierung ermöglicht es der Partei mit den passenden Regeln ihre eigene Ideologie durchzusetzen.  
+Desweiteren ist es nahezu unmöglich die Verhältnismäßigkeit zwischen den Regeln zu bewahren.
+Während der Diskussion wurden für alle der vorgeschlagenen Regeln Änderungen an der zugehörigen Punktvergabe vorgeschlagen.
+Wer entscheidet wieviele Plus- oder Minuspunkte man für welche Handlung bekommt?
+Bei weiterer Untersuchung stellte sich die Frage, ob eine Verhältnismäßigkeit überhaupt hergestellt werden kann.
+Ist es wirklich so, dass das Einreichen von Beweisen (+10 Punkte) genauso "gut" ist wie zehn Wochen mit dem Fahrrad zur Arbeit zu fahren (+1 Punkt pro Woche)?
+Habe ich eine Vandalismus-Erlaubnis (-20 Punkte) nachdem ich zwei mal Beweise für Straftaten abgegeben habe (je +10)?
+Schon in unserem minimalen Zukunftsszenario wird deutlich, dass ein derartiges Aufrechnen müßig ist.
+Unterschiedliche Taten haben diverse Motivationen und sind je nach Situation unterschiedlich zu bewerten.  
+Letztlich besteht auch die Frage nach der Fairness von starren Regeln.
+Jede Person ist mit eigenen Stärken und Schwächen individuell.
+Während einige sowieso schon regelmäßig mit dem Fahrrad ist dies für andere aus gesundheitlichen Gründen unmöglich.
+Derartige menschliche Unterschiede können in einem Sozialkreditsystem wie es im Szenario vorgeschlagen wurde nicht berücksichtigt werden.  
+Insgesamt zeigt sich, dass in der Diskussion einige allgemeine Probleme in möglichen Sozialkreditsystemen aufgezeigt werden konnten.
+Die überwiegend kritische Auseinandersetzung mit den vorgeschlagenen Regeln führte zu einer interessanten und intensiven Gesprächsrunde.
