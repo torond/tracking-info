@@ -1,14 +1,31 @@
-## Tracking und das Sammeln von personenbezogenen Daten
+# Tracking und das Sammeln von personenbezogenen Daten
 David Reinartz, Felix Förtsch  
 Stand: 07.01.2022  
 Ausarbeitung zum gleichnamigen Vortrag im Modul  
 Gesellschaftliche Strukturen im Digitalen Wandel
 
-### Praktischer Guide
-(Video von Felix)
+## Steigerung der Anoynymität im Browser: ein Mini-How-to
 
-### Hintergrund
-#### Wieso Privatsphäre? Ich hab' doch nichts zu verbergen!
+### Video
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AqN5f8PJmr0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Links
+- [Firefox](https://www.mozilla.org/de/firefox/new/) installieren (direkter Download-Link: [https://www.mozilla.org/de/firefox/download/thanks/](https://www.mozilla.org/de/firefox/download/thanks/))
+- [Firefox konfigurieren](https://ffprofile.com/): siehe Video
+- Alternativ Addons via Firefox-Addon-Bibliothek installlieren:
+  - [uBlock Origin](https://addons.mozilla.org/de/firefox/addon/ublock-origin/)
+  - [ClearURLs](https://addons.mozilla.org/de/firefox/addon/clearurls/)
+- Addons konfigurieren: siehe Video
+
+- Bonus-Sektion YouTube:
+  - [Sponsorblock für YouTube](https://addons.mozilla.org/de/firefox/addon/sponsorblock/)
+  - [YouTube Dislike-Knopf zurückholen](https://addons.mozilla.org/de/firefox/addon/return-youtube-dislikes/)
+  
+## Bonus-Clip: Cookie Banner
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cpcScZfE-aU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Hintergrund
+### Wieso Privatsphäre? Ich hab' doch nichts zu verbergen!
 Um die Wichtigkeit des Schutzes vor invasiven Trackingmaßnahmen zu begreifen, ist es zunächst wichtig, ein Verständnis für das Konzept der Privatsphäre zu bekommen.
 Wahrscheinlich hat jeder eine Vorstellung von Privatsphäre.
 Sie tatsächlich zu definieren, stellt sich jedoch als gar nicht so einfach heraus.  
@@ -30,7 +47,7 @@ Man muss nichts “zu verstecken haben”, um etwas privat halten zu wollen.
 Privater Raum mit Informationen, die für andere irrelevant, aber dennoch persönlich sind, macht uns erst zu authentischen Individuen.
 Nur durch diese private Sphäre können wir zwei gegensätzliche menschliche Bedürfnisse stillen: Sowohl Teil von einer sozialen Gruppe als auch abseits dieser Gruppe zu sein.
 
-#### Wozu wird Tracking benutzt?
+### Wozu wird Tracking benutzt?
 Um die Wichtigkeit einer intakten Privatsphäre zu verdeutlichen, ist es hilfreich, die Gründe zu verstehen, aufgrund derer Daten gesammelt werden.
 Ein großer Aspekt kommt aus der Wirtschaft mit dem sog. Behavioral Advertising.
 Bei dieser Werbeform geht es darum personalisierte Nutzerprofile zu erstellen, so dass Nutzern effektivere Werbung gezeigt werden kann.
@@ -65,17 +82,25 @@ Schutz vor Tracking ist wichtig und wird es auch in der Zukunft bleiben.
 Mit den Informationen in unserem Guide kann jeder jetzt einen Schritt in die richtige Richtung tun und die eigene Privatsphäre schützen.
 
 
-### Weiterführende Links
-[Link zu Vortragsfolien](https://docs.google.com/presentation/d/1xQjetL0wlfX8nB_Xtyn0zT5Ylv_OmDFtHNt0KudGCxs/edit?usp=sharing) (Inklusive ausführlicher Quellenangaben)  
-#### Datenschutzinitiativen
-[AlgorithmWatch](https://algorithmwatch.org/de/)  
-[DataSkop Datenspendeplattform](https://algorithmwatch.org/de/dataskop/)  
-[Big Brother Awards](http://www.bigbrotherawards.org/)  
-[Reclaim Your Face](https://reclaimyourface.eu/)  
-[OpenSCHUFA](https://openschufa.de/)  
-#### Im Vortrag hervorgehobene Quellen  
+## Weiterführende Links
+- [Link zu Vortragsfolien](https://docs.google.com/presentation/d/1xQjetL0wlfX8nB_Xtyn0zT5Ylv_OmDFtHNt0KudGCxs/edit?usp=sharing) (Inklusive ausführlicher Quellenangaben) 
+- [user.js von Arkenfox](https://github.com/arkenfox/user.js/): weiterführende Firefox-Konfiguration mit dem Ziel Privatsphäre zu maximieren.
+- [Panopticlick](https://panopticlick.eff.org): wie einzigartig ist mein Browser-Fingerprint?
+- [Luca Fail](https://timeline.luca.fail/): ein Report über schlechten Umgang mit Software.
+- [Is Tor Trustworthy and Safe?](https://restoreprivacy.com/tor/): warum TOR bei **wirklich** wichtigen Dingen mit Vorsicht zu genießen ist.
+- [Privacytools.io](https://www.privacytools.io/): Übersicht verschiedener Tools, die Privatsphäre respektieren.
+
+### Datenschutzinitiativen
+- [AlgorithmWatch](https://algorithmwatch.org/de/)  
+- [DataSkop Datenspendeplattform](https://algorithmwatch.org/de/dataskop/)  
+- [Big Brother Awards](http://www.bigbrotherawards.org/)  
+- [Reclaim Your Face](https://reclaimyourface.eu/)  
+- [OpenSCHUFA](https://openschufa.de/) 
+
+### Im Vortrag hervorgehobene Quellen  
 [David Anderson Q.C. - A Question of Trust: Report of the Investigatory Powers Review ](https://www.gov.uk/government/publications/a-question-of-trust-report-of-the-investigatory-powers-review)  
-#### China
+
+### China
 [China’s Social Credit System in 2021: From fragmentation towards integration](https://merics.org/en/report/chinas-social-credit-system-2021-fragmentation-towards-integration)  
 [Vom ‚Vorreiter‘ lernen? Eine multidisziplinäre Analyse des chinesischen Sozialkreditsystems und seiner Auswirkungen auf Deutschland](https://www.bidt.digital/forschungsprojekt-sozialkreditsystem)  
 [Wikipedia - Face (sociological concept)](https://en.wikipedia.org/wiki/Face_(sociological_concept)#Chinese)  
@@ -84,7 +109,7 @@ Mit den Informationen in unserem Guide kann jeder jetzt einen Schritt in die ric
 
 ---
 
-### Diskussion
+## Diskussion
 In einer fiktionalen Zukunft im Jahr 2098, kurz vor dem Zusammenschluss der europäischen Länder in der Zentralverwaltungszone "Neuropa", ist die Einführung eines Sozialkredits geplant.
 Den Seminarteilnehmern wurden vier geplante Punkteregeln vorgelegt.
 Jede Regel enthält die Tat und die veranschlagten Plus- oder Minuspunkte.
@@ -92,7 +117,7 @@ In zwei Partnerdiskussionsrunden wurden die Regeln nach Pro- und Contrapunkten s
 Anschließend wurde nach einer meinungsbildenden Abstimmung die zweite Regel in einer Gruppendiskussion genauer beleuchtet.
 Die editierten Ergebnisse der Diskussion sind im Folgenden dargestellt.  
 
-#### Regel 1: Wöchentlich 20 km mit dem Fahrrad fahren -> +1 Punkt
+### Regel 1: Wöchentlich 20 km mit dem Fahrrad fahren -> +1 Punkt
 - Pro:
   - Motivierende Regel
   - Gut für andere Aspekte des Lebens
@@ -108,7 +133,7 @@ Die editierten Ergebnisse der Diskussion sind im Folgenden dargestellt.
 - Weitere Gedanken:  
   - Was passiert, wenn man auf dem Fahrrad eine Straftat begeht?
 
-#### Regel 2: Beweise von Straftaten einreichen -> +10 Punkte
+### Regel 2: Beweise von Straftaten einreichen -> +10 Punkte
 - Pro:
   - Trade-off: Wir führen (im Szenario) sowieso Regeln ein… Wenn es wirklich eine Straftat ist, dann hilft es. 
 - Contra:
@@ -129,7 +154,7 @@ Die editierten Ergebnisse der Diskussion sind im Folgenden dargestellt.
   - Wie soll bei einer derartig groben Regel die Verhältnismäßigkeit gewahrt werden? Beweise für Verletzungsdelikte sind wichtiger als jene für harmlose Ordnungswidrigkeiten.
   - Wer bekommt die Pluspunkte, wenn eine Straftat mehrmals angezeigt wird?  
 
-#### Regel 3: Vandalismus an öffentlichen Einrichtungen -> -20 Punkte
+### Regel 3: Vandalismus an öffentlichen Einrichtungen -> -20 Punkte
 - Pro:
   - Vandalismus geht alle was an und schadet allen
 - Änderungen:
@@ -137,11 +162,11 @@ Die editierten Ergebnisse der Diskussion sind im Folgenden dargestellt.
 - Weitere Gedanken:
   - Es gibt unterschiedliche Arten von Vandalismus
 
-#### Regel 4: Beihilfe zur illegalen Einreise -> -100 Punkte
+### Regel 4: Beihilfe zur illegalen Einreise -> -100 Punkte
 - Änderungen:
   - Weniger Minuspunkte
 
-#### Auswertung
+### Auswertung
 Die Diskussion hat auf einige Schwachstellen eines möglichen Sozialkreditsystems hingewiesen.  
 Zunächst besteht die Frage, welche Regeln aufgenommen werden und wer darüber entscheidet.
 Die in vielen Ländern bestehenden Gesetzeskataloge sind durch unzählige Mitwirkende über Jahrhunderte gewachsen und spiegeln so im Idealfall die mittlere Moral der gesamten Bevölkerung wider.
