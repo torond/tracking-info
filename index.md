@@ -1,28 +1,28 @@
 # Tracking und das Sammeln von personenbezogenen Daten
 David Reinartz, Felix Förtsch  
-Stand: 07.01.2022  
+Stand: 12.01.2022  
 Ausarbeitung zum gleichnamigen Vortrag im Modul  
 Gesellschaftliche Strukturen im Digitalen Wandel
 
-## Steigerung der Anoynymität im Browser: ein Mini-How-to
+## Steigerung der Anoynymität im Browser: Ein Mini-How-To
 
 ### Video
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AqN5f8PJmr0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Links
 - [Firefox](https://www.mozilla.org/de/firefox/new/) installieren (direkter Download-Link: [https://www.mozilla.org/de/firefox/download/thanks/](https://www.mozilla.org/de/firefox/download/thanks/))
-- [Firefox konfigurieren](https://ffprofile.com/): siehe Video
+- Firefox konfigurieren: [Firefox Profilemaker](https://ffprofile.com/) (siehe Video)
 - Alternativ Addons via Firefox-Addon-Bibliothek installlieren:
   - [uBlock Origin](https://addons.mozilla.org/de/firefox/addon/ublock-origin/)
   - [ClearURLs](https://addons.mozilla.org/de/firefox/addon/clearurls/)
 - Addons konfigurieren: siehe Video
-
 - Bonus-Sektion YouTube:
   - [Sponsorblock für YouTube](https://addons.mozilla.org/de/firefox/addon/sponsorblock/)
   - [YouTube Dislike-Knopf zurückholen](https://addons.mozilla.org/de/firefox/addon/return-youtube-dislikes/)
   
-## Bonus-Clip: Cookie Banner
+### Bonus-Clip: Cookie Banner
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cpcScZfE-aU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Hintergrund
 ### Wieso Privatsphäre? Ich hab' doch nichts zu verbergen!
